@@ -134,3 +134,11 @@ All packages and nodes have been systematically verified with automated unit and
 - **Test Suite**: `python3 scripts/test_drone_swarm_kit.py`
 - **Results**: 8 / 8 tests passed (100% success rate, exit code 0).
 - **Tested Nodes**: `drone_description`, `drone_bringup`, `swarm_control`, `swarm_formation`, `swarm_coordination`, `drone_hardware`, and all 10 `swarm_demos` binaries.
+
+---
+
+## Knowledge & Research Bridge (Obsidian 2nd-Brain Vault)
+
+- **Project MOC Hub:** [Project MOC - ROS 2 Learning Kit](file:///e:/app%20data/obsidian/ved/05_MOCs/Project_MOCs/Project%20MOC%20-%20ROS%202%20Learning%20Kit.md)
+- **Vault Mathematical Source Note:** [SN - Swarm Coordination Principles.md](file:///e:/app%20data/obsidian/ved/20_Sources/Source_Notes/SN%20-%20Swarm%20Coordination%20Principles.md)
+- **Curriculum Series (Level 05):** [Level 05: Aerial Robotics & Swarm Intelligence](file:///e:/app%20data/obsidian/ved/40_Projects/Robotics%20Learning%20Projects/Master%20Curriculum%20(Level%2000%20-%20Level%2008)/Level_05_Aerial_Robotics_and_Swarm_Intelligence/README.md)
