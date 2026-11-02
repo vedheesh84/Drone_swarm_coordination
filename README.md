@@ -41,7 +41,7 @@ ros2_drone_swarm_kit/
 
 ### 1. Build Workspace
 ```bash
-cd "02 — Domains/ROS2/Ros2 learning kits/ros2_drone_swarm_kit"
+cd "03 — Projects & Experiments/ learning kits/ros2_drone_swarm_kit"
 colcon build --symlink-install
 source install/setup.bash
 ```
